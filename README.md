@@ -1,0 +1,1 @@
+This is the mintty that is used in git bash. Maybe you'll need it.
